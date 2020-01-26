@@ -17,7 +17,7 @@ Para la práctica, por una parte, se ha clonado y configurado una aplicación de
 ***Aplicación 1. Node-Chat.***
 >Se despliega una aplicación clonada que ejecuta un chat en pleno funcionamiento. 
 A esta aplicación se accede mediante el nombre del dominio asignado a tal efecto.  
-Acceso (por DNS): [Node-Chat](ec2-18-217-159-220.us-east-2.compute.amazonaws.com)  
+Acceso (por DNS): [Node-Chat](http://ec2-18-217-159-220.us-east-2.compute.amazonaws.com)  
 
 ***Aplicación 2. myShop.***
 >Es desplegada la aplicación del ejercicio de backend con node realizada durante el curso 2019.
