@@ -30,5 +30,5 @@ La configuración del servicio se realiza de manera que los ficheros estáticos 
 Acceso (por IP): [myShop](http://18.217.159.220/)
 
 **Acceso a la práctica :**  
-Dirección DNS (IPv4) : [ec2-18-217-159-220.us-east-2.compute.amazonaws.com](ec2-18-217-159-220.us-east-2.compute.amazonaws.com)  
+Dirección DNS (IPv4) : [ec2-18-217-159-220.us-east-2.compute.amazonaws.com](http://ec2-18-217-159-220.us-east-2.compute.amazonaws.com)  
 Dirección IP : [18.217.159.220](http://18.217.159.220) 
