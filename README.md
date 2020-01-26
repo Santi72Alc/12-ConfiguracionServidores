@@ -16,8 +16,8 @@ Para la práctica, por una parte, se ha clonado y configurado una aplicación de
 
 ***Aplicación 1. Node-Chat.***
 >Se despliega una aplicación clonada que ejecuta un chat en pleno funcionamiento. 
-A esta aplicación se accede mediante el nombre del dominio asignado a tal efecto.
-Acceso: [Node-Chat](ec2-18-217-159-220.us-east-2.compute.amazonaws.com) 
+A esta aplicación se accede mediante el nombre del dominio asignado a tal efecto.  
+Acceso (por DNS): [Node-Chat](ec2-18-217-159-220.us-east-2.compute.amazonaws.com)  
 
 ***Aplicación 2. myShop.***
 >Es desplegada la aplicación del ejercicio de backend con node realizada durante el curso 2019.
@@ -26,8 +26,8 @@ La configuración del servicio se realiza de manera que los ficheros estáticos 
 
 > Utilizamos tambien en esta aplicación un motor de base de datos ([MongoDB](https://www.mongodb.com/es)), el cual configuramos para que dé soporte de los datos necesarios a dicha aplicación.
 
->El fichero estático más notable servido en estático paraesta aplicación es [index.jpeg](https://github.com/Santi72Alc/04-practicaNodeJSBasico/blob/master/public/images/index.jpeg) que se carga en la página inicial de la app.
-Acceso: [myShop](http://18.217.159.220/)
+>El fichero estático más notable servido en estático para esta aplicación es [index.jpeg](https://github.com/Santi72Alc/04-practicaNodeJSBasico/blob/master/public/images/index.jpeg) que se carga en la página inicial de la app.  
+Acceso (por IP): [myShop](http://18.217.159.220/)
 
 **Acceso a la práctica :**  
 Dirección DNS (IPv4) : [ec2-18-217-159-220.us-east-2.compute.amazonaws.com](ec2-18-217-159-220.us-east-2.compute.amazonaws.com)  
